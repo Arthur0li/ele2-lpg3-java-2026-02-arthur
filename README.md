@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Autores
 
-Desenvolvido por **Arthur Oliveira**, **Jefferson Braga**, **Vitória Pinheiro Simonetto**.
+Desenvolvido por **Arthur Oliveira**.
 
 ## ⭐ Apoio
 
